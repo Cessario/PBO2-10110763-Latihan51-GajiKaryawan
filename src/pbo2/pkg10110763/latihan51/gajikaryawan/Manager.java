@@ -5,9 +5,11 @@
  */
 package pbo2.pkg10110763.latihan51.gajikaryawan;
 
-/**
- *
- * @author Deadpool
+/*
+Nama : Cessario Sheva L.P.A
+Nim  : 10117063
+Kelas: IF-2
+Deskripsi Program : Menampilkan Gaji
  */
 public class Manager extends Karyawan {
     private int kehadiran;
